@@ -1,5 +1,17 @@
 # inspect-certificate
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Install](#install)
+  - [Brew](#brew)
+  - [Docker](#docker)
+  - [Pre-compiled binaries](#pre-compiled-binaries)
+- [Usage](#usage)
+- [Why?](#why)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 [![License](https://img.shields.io/github/license/meysam81/inspect-certificate?style=flat-square)](https://github.com/meysam81/inspect-certificate/blob/main/LICENSE)
 [![GitHub release](https://img.shields.io/github/v/release/meysam81/inspect-certificate?style=flat-square)](https://github.com/meysam81/inspect-certificate/releases)
 [![GitHub Stars](https://img.shields.io/github/stars/meysam81/inspect-certificate?style=flat-square&logo=github)](https://github.com/meysam81/inspect-certificate/stargazers)
@@ -17,6 +29,20 @@ Zero-dependency Go CLI for TLS certificate inspection.
 ```bash
 go install github.com/meysam81/inspect-certificate@latest
 ```
+
+### Brew
+
+```bash
+brew install meysam81/tap/inspect-certificate
+```
+
+### Docker
+
+```bash
+docker run --rm meysam81/inspect-certificate google.com
+```
+
+### Pre-compiled binaries
 
 Or download a pre-built binary from the [releases page](https://github.com/meysam81/inspect-certificate/releases).
 
